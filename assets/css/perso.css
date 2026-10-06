@@ -1,0 +1,26 @@
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero-container p {
+    text-align: center;
+}
+
+.btn-cv {
+    display: flex;
+    align-items: center;
+}
+
+.btn-cv svg {
+    width: 20px;
+    margin-right: 5px;
+}
+
+.icon-accent {
+    color: var(--accent-color);
+    width: 40px;
+    height: 40px;
+    margin-bottom: 20px;
+}
